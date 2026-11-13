@@ -1,0 +1,10 @@
+# Visual Studio / .NET build artifacts
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+
+# Word temporary lock files
+~$*.docx
+*.tmp
